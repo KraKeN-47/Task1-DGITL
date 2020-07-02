@@ -1,4 +1,4 @@
 # Task1-DGITL
-
-## to execute the task type the following in the VSCODE terminal:
+## You must have node.js installed.
+## To execute the task type the following in VSCODE terminal:
 ## node TaskTS1.js
